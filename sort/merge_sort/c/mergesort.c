@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//time complexity=nlogn
 // Merges 2 subarrays of arr[]
 void merge(int arr[], int l, int m, int r)
 {
