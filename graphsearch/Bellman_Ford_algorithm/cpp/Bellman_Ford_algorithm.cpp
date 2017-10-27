@@ -5,7 +5,7 @@
 //  Created by Khaled Abdelfattah on 6/27/17.
 //  Copyright © 2017 Khaled Abdelfattah. All rights reserved.
 //
-
+// this is the code for bellman ford algorithm
 #include <bits/stdc++.h>
 
 using namespace std;
